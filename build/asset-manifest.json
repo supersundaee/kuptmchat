@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project/kuptmchat/static/css/main.2283c52f.chunk.css",
+    "main.js": "/project/kuptmchat/static/js/main.7f46bea9.chunk.js",
+    "main.js.map": "/project/kuptmchat/static/js/main.7f46bea9.chunk.js.map",
+    "runtime-main.js": "/project/kuptmchat/static/js/runtime-main.537177c2.js",
+    "runtime-main.js.map": "/project/kuptmchat/static/js/runtime-main.537177c2.js.map",
+    "static/js/2.ebbc25f6.chunk.js": "/project/kuptmchat/static/js/2.ebbc25f6.chunk.js",
+    "static/js/2.ebbc25f6.chunk.js.map": "/project/kuptmchat/static/js/2.ebbc25f6.chunk.js.map",
+    "index.html": "/project/kuptmchat/index.html",
+    "precache-manifest.ffc0fb3a2ae8e15bb67f18e2d0231e8b.js": "/project/kuptmchat/precache-manifest.ffc0fb3a2ae8e15bb67f18e2d0231e8b.js",
+    "service-worker.js": "/project/kuptmchat/service-worker.js",
+    "static/css/main.2283c52f.chunk.css.map": "/project/kuptmchat/static/css/main.2283c52f.chunk.css.map",
+    "static/js/2.ebbc25f6.chunk.js.LICENSE.txt": "/project/kuptmchat/static/js/2.ebbc25f6.chunk.js.LICENSE.txt",
+    "static/js/main.7f46bea9.chunk.js.LICENSE.txt": "/project/kuptmchat/static/js/main.7f46bea9.chunk.js.LICENSE.txt",
+    "static/media/logokuptm.png": "/project/kuptmchat/static/media/logokuptm.af2b63cf.png",
+    "static/media/publicgroupbg.png": "/project/kuptmchat/static/media/publicgroupbg.9bf03ea9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.537177c2.js",
+    "static/js/2.ebbc25f6.chunk.js",
+    "static/css/main.2283c52f.chunk.css",
+    "static/js/main.7f46bea9.chunk.js"
+  ]
+}

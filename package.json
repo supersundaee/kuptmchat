@@ -1,0 +1,37 @@
+{
+  "name": "kuptm-chat",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "/project/kuptmchat/",
+  "dependencies": {
+    "@nextui-org/react": "^1.0.0-beta.10",
+    "firebase": "^7.19.1",
+    "moment": "^2.27.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-iconly": "^2.2.5",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^3.4.3"
+  },
+  "resolutions": {
+    "react-error-overlay": "6.0.9"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
